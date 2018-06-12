@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<info>
+    <id>demoapp</id>
+    <name>Demo App</name>
+    <description>Provides functions to upload large files with your HTML5-Browser.</description>
+    <version>0.0.1</version>
+    <licence>AGPL</licence>
+    <author>Patrick Schwarz</author>
+    <author>e-alfred</author>
+    <category>tools</category>
+    <website>https://github.com/e-alfred/flowupload</website>
+    <repository>https://github.com/e-alfred/flowupload</repository>
+    <bugs>https://github.com/e-alfred/flowupload/issues</bugs>
+    <documentation>https://github.com/e-alfred/flowupload</documentation>
+    <screenshot>https://github.com/e-alfred/flowupload/raw/master/appinfo/flowupload.gif</screenshot>
+    <dependencies>
+        <nextcloud min-version="9" max-version="14"/>
+    </dependencies>
+</info>
