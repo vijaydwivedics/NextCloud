@@ -1,6 +1,6 @@
 Description
 -----------
-Demo
+Demo App
 
 Early alpha state
 
@@ -14,7 +14,7 @@ Version 0.0.1:
 
 Licenses
 -------
-Flowupload: [GNU Affero General Public License](http://www.gnu.org/licenses/agpl-3.0.html)
+Demoapp: [GNU Affero General Public License](http://www.gnu.org/licenses/agpl-3.0.html)
 
 Flowjs/NG-Flow: [MIT License](https://opensource.org/licenses/MIT)
 
